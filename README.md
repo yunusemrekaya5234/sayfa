@@ -1,2 +1,0 @@
-# sayfa
-sayfa html için
